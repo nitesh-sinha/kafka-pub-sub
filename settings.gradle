@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-evaluation'
+include 'kafka-basics'
+include 'wikimedia-stream-reader'
+include 'kafka-consumer-opensearch'
+
