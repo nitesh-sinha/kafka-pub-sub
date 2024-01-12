@@ -1,4 +1,4 @@
-package com.nitesh.kafka;
+package com.nitesh.kafka.wikimedia;
 
 public class HelloWorld {
     public static void main(String[] args) {

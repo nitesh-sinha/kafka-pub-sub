@@ -1,4 +1,4 @@
-package com.nitesh.kafka;
+package com.nitesh.kafka.wikimedia;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
